@@ -8,3 +8,4 @@ git rm --cached <file> - moves file from staging to working
 commit - when commit the file
 git log - information about all the commits
 git restore <file> - it gives the last commited code.
+git diff logid1 logid2 - shows the difference btween two commits.
