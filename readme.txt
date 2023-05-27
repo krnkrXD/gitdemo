@@ -5,4 +5,6 @@ staging area - going to part of next version. - knows what changes will be done 
 repository area - contains details of all prev repository version.
 git add <file> - moves file from working to staging area
 git rm --cached <file> - moves file from staging to working
-commit -  
+commit - when commit the file
+git log - information about all the commits
+git restore <file> - it gives the last commited code.
